@@ -1,3 +1,3 @@
 # SyRust: Automatic Testing of Rust Libraries with Semantic-Aware Program Synthesis
 
-## 1、摘要你阿Dion给
+## 1、摘要部分的内日哦那个
