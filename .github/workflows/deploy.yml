@@ -5,6 +5,9 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write  # 授予写入权限以推送 gh-pages 分支
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
